@@ -27,7 +27,7 @@ Neste desafio foram aplicados conceitos de geração estática de páginas usand
 
 Principais funcionalidades:
 
-- Configurar repositório e modelo de documento no Prismic;
+- Configurar repositório e modelo de documento no CMS Prismic;
 - Buscar e listar na página o conteúdo gerado pelo Prismic de forma estática;
 - Criar rotas dinâmicas levando ao conteúdo completo de cada post;
 - Gerar de forma estática cada página de post através do Get Static Paths;
