@@ -2,3 +2,17 @@
   max-width: 700px;
   margin: 0 auto;
 }
+
+.preview {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 5.5rem auto;
+  background-color: var(--white-heading);
+  color: var(--black-background);
+  text-align: center;
+  border-radius: 4px;
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1.125rem;
+}

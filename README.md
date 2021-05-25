@@ -33,6 +33,13 @@ Principais funcionalidades:
 - Gerar de forma estática cada página de post através do Get Static Paths;
 - Funcionalidade de paginação, mostrando mais posts, se houverem;
 
+Funcionalidades adicionadas no desafio complementar:
+
+- Comentários com Utteranc;
+- Preview do documento antes da publicação no Prismic;
+- Navegação entre post anterior e próximo;
+- Informação de edição do post.
+
 ## :wrench: Instalação e Execução
 
 - Clonar o repositório
